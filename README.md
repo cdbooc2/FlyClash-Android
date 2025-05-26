@@ -35,10 +35,10 @@ FlyClash是一个基于Clash Meta for Android的现代化代理客户端，拥�
  根据GPL-3.0协议，FlyClash安卓版本会在beta版本完成开发后进行开源，并且免费使用。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/dashboard.png" alt="仪表盘" width="200">
-  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/node.png" alt="配置管理" width="200">
-  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/stats.png" alt="网络统计" width="200">
-  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/setting.png" alt="设置" width="200">
+  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/dashboard.jpg" alt="仪表盘" width="200">
+  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/node.jpg" alt="配置管理" width="200">
+  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/stats.jpg" alt="网络统计" width="200">
+  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/setting.jpg" alt="设置" width="200">
 </div>
 
 ## 📦 下载
