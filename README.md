@@ -3,7 +3,7 @@
 <div align="center">
   <img src="screenshots/logo.png" alt="FlyClash Logo" width="120" height="120">
 
-FlyClash是一个基于Clash Meta for Android的现代化代理客户端，拥有美观的界面和强大的功能。
+FlyClash-Android是一个基于Clash Meta for Android的现代化代理客户端，拥有美观的界面和强大的功能。
 
   [![Release](https://img.shields.io/github/v/release/GtxFury/FlyClash-Android?include_prereleases&label=alpha-v0.1)](https://github.com/GtxFury/FlyClash-Android/releases)
   [![License](https://img.shields.io/github/license/GtxFury/FlyClash-Android)](LICENSE)
