@@ -3,12 +3,11 @@
 <div align="center">
   <img src="screenshots/logo.png" alt="FlyClash Logo" width="120" height="120">
 
-  <h3>FlyClash是一个基于Clash Meta for Android的现代化代理客户端，拥有美观的界面和强大的功能。</h3>
+FlyClash是一个基于Clash Meta for Android的现代化代理客户端，拥有美观的界面和强大的功能。
 
   [![Release](https://img.shields.io/github/v/release/yourusername/FlyClash?include_prereleases&label=Alpha)](https://github.com/yourusername/FlyClash/releases)
   [![License](https://img.shields.io/github/license/yourusername/FlyClash)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
-  [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 </div>
 
 ## ✨ 特性
