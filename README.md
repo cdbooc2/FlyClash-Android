@@ -27,7 +27,7 @@ FlyClash是一个基于Clash Meta for Android的现代化代理客户端，拥�
 
 ### 📱 用户体验
 - **底部导航栏**：仪表盘、配置、节点、设置四大模块
-- **拖拽编辑模式**：iOS 风格的卡片重排功能
+- **拖拽编辑模式**：卡片重新排列功能
 - **响应式设计**：适配各种屏幕尺寸
 - **深色模式支持**：护眼的暗色主题
 
@@ -37,7 +37,7 @@ FlyClash是一个基于Clash Meta for Android的现代化代理客户端，拥�
 <div align="center">
   <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/dashboard.jpg" alt="仪表盘" width="200">
   <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/node.jpg" alt="配置管理" width="200">
-  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/stats.jpg" alt="网络统计" width="200">
+  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/node.jpg" alt="节点列表" width="200">
   <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/setting.jpg" alt="设置" width="200">
 </div>
 
