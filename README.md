@@ -54,7 +54,7 @@
 > - 🔄 **频繁更新**：版本更新可能导致配置丢失
 > - 📱 **仅供预览**：建议仅用于功能体验，不建议作为主力代理工具
 
-- [📱 下载 APK](https://github.com/yourusername/FlyClash/releases/latest)
+- [📱 下载 APK](https://github.com/GtxFury/FlyClash/releases/latest)
 
 ## 🚀 快速开始
 
