@@ -5,7 +5,7 @@
 
 FlyClash是一个基于Clash Meta for Android的现代化代理客户端，拥有美观的界面和强大的功能。
 
-  [![Release](https://img.shields.io/github/v/release/GtxFury/FlyClash-Android?include_prereleases&label= alpha-v0.1)](https://github.com/GtxFury/FlyClash-Android/releases)
+  [![Release](https://img.shields.io/github/v/release/GtxFury/FlyClash-Android?include_prereleases&label=alpha-v0.1)](https://github.com/GtxFury/FlyClash-Android/releases)
   [![License](https://img.shields.io/github/license/GtxFury/FlyClash-Android)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 </div>
