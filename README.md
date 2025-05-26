@@ -36,7 +36,7 @@ FlyClash是一个基于Clash Meta for Android的现代化代理客户端，拥�
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/dashboard.jpg" alt="仪表盘" width="200">
-  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/node.jpg" alt="配置管理" width="200">
+  <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/profile.jpg" alt="配置管理" width="200">
   <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/node.jpg" alt="节点列表" width="200">
   <img src="https://raw.githubusercontent.com/GtxFury/FlyClash-Android/main/screenshots/setting.jpg" alt="设置" width="200">
 </div>
