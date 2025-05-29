@@ -9,6 +9,9 @@ FlyClash-Android是一个基于Clash Meta for Android的现代化代理客户端
   [![License](https://img.shields.io/github/license/GtxFury/FlyClash-Android)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 </div>
+## 交流社区
+
+加入我们的 [Telegram 交流群](https://t.me/flyclash) 获取最新消息、使用帮助和与其他用户交流。
 
 ## ✨ 特性
 
